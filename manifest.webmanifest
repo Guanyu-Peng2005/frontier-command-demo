@@ -1,0 +1,14 @@
+{
+  "id": "./",
+  "name": "边境指挥 · 快速指挥",
+  "short_name": "边境指挥",
+  "description": "触屏实时战术指挥，支持单机与双人联机。",
+  "lang": "zh-CN",
+  "start_url": "./?ui=touch",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#10130e",
+  "theme_color": "#191f16",
+  "icons": [{"src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}]
+}
